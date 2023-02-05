@@ -3,6 +3,11 @@ package cl.banchile.bchrest.administra.ingreso.operaciones;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author Pablo
+ *
+ */
+
 @SpringBootApplication
 public class AdministraIngresoOperacionesApplication {
 

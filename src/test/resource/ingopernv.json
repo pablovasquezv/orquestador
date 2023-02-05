@@ -1,0 +1,83 @@
+{
+  "identificadorTransaccion": 6979136321542086933,
+  "producto": "FONDOSMUTUOS",
+  "operacion": "RESCATE",
+  "identificadorCliente": 13072772,
+  "cuentaInversion": 0,
+  "codigoMoneda": "",
+  "montoOperacionString": 64199.0,
+  "correlativo": "",
+  "unidadesTransadas": 0.0,
+  "fechaCurse": "2022-09-23",
+  "fechaIngreso": "2022-09-23T03:00:00.000+0000",
+  "fechaSolicitud": "2022-09-23T03:00:00.000+0000",
+  "fechaPago": "2022-09-23",
+  "rutEmpleadoEjecutivoConect": 810810740,
+  "usuarioEjecutivoConectado": "USRWPBD",
+  "rutEmpleadoEjecutivoOperac": 810810740,
+  "observacion": "",
+  "numeroDeOrden": "",
+  "mensaje": "",
+  "canal": "WEB.BCH",
+  "identificadorCanalAtencion": 7,
+  "indicadorAvanzaAutomatico": "true",
+  "operacionMonedaExtranjera": null,
+  "operacionFondosMutuos": {
+    "indicadorCuotaPeso": "PES",
+    "indicadorRescateTotal": "SI",
+    "codigoOperacion": "",
+    "tipoCurseRescate": "RN",
+    "idOrigenFondo": 0,
+    "indicador18Q": "",
+    "beneficioTributario": "NO",
+    "codigoPlanCuenta": 1,
+    "nemoFondoMutuo": "AGRESIVO",
+    "numeroCuenta": 292.0
+  },
+  "operacionAcciones": null,
+  "pingresarInstruccions": {
+    "pingresarInstruccion": [
+      {
+        "numeroCuentaCorriente": "",
+        "numeroOperacion": "",
+        "numeroOrdenLiquidacion": "",
+        "numeroInstruccion": "",
+        "monto": 64199.0,
+        "codigoModalidad": 29.0,
+        "bancoOrigen": 0,
+        "bancoDeposito": 0,
+        "cuentaDeposito": "",
+        "moneda": "PESO",
+        "tipoInstruccion": "Pago",
+        "categoriaLiquidacion": "",
+        "rutEmpleadoIngreso": 800000602,
+        "canalIngreso": "WEB.BCH",
+        "modalidadLegacy": "RNV",
+        "indicadorPagoTerceros": "",
+        "instruccionHabilitada": "",
+        "indicadorAvanzaAutomatico": "true",
+        "cuenta": null,
+        "aprobarPagoaTerceros": null,
+        "datosReinversion": {
+          "operacionFondosMutuos": {
+            "indicadorCuotaPeso": "",
+            "indicadorRescateTotal": "",
+            "codigoOperacion": "APO-FMU",
+            "tipoCurseRescate": "",
+            "idOrigenFondo": 0,
+            "indicador18Q": "SI",
+            "beneficioTributario": "NO",
+            "codigoPlanCuenta": 1,
+            "nemoFondoMutuo": "LM_ASIA_I",
+            "numeroCuenta": 223.0
+          },
+          "codigoModalidad": null,
+          "identificadorCanal": 7,
+          "indicadorAvanzaAutomatico": "true",
+          "pingresarInstruccions": null
+        },
+        "indicadorReinversion": "true"
+      }
+    ]
+  }
+}

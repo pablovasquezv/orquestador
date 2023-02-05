@@ -1,0 +1,26 @@
+{
+  "identificadorTransaccion": 6978812122351202545,
+  "producto": "ACCIONES",
+  "operacion": "COMPRA",
+  "identificadorCliente": 12060069,
+  "cuentaInversion": 0,
+  "montoOperacionString": 1.0,
+  "unidadesTransadas": 3.0,
+  "rutEmpleadoEjecutivoConect": 800000602,
+  "usuarioEjecutivoConectado": "INTERNET",
+  "rutEmpleadoEjecutivoOperac": 800000602,
+  "observacion": "OPERACION DE ACCIONES NUEVO FLUJO",
+  "canal": "WEB.BCH",
+  "identificadorCanalAtencion": 7,
+  "indicadorAvanzaAutomatico": "true",
+  "operacionAcciones": {
+    "fechaVigencia": "06062022",
+    "cantidadOrden": 5,
+    "indicadorPrecioLimite": "LI",
+    "medioCobroPago": "CAJA",
+    "nombreSerie": "LTM",
+    "montoLimite": 1,
+    "montoOrden": 2,
+    "comision": 4
+  }
+}
